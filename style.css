@@ -46,11 +46,8 @@ body {
 }
 .article span {
   color: red;
-  text-transform: uppercase;
-  margin: 0px;
-  padding: 0px;
 }
-.article h1 {
+.article h1, span {
   text-transform: uppercase;
   margin: 0px;
   padding: 0px;
