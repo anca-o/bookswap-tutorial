@@ -1,5 +1,6 @@
 body {
   margin: 0px;
+  background-color: #cccccc;
 }
 .navbar {
   background-color: black;
@@ -25,4 +26,42 @@ body {
   padding: 5px 15px;
   line-height: 37px;
   font-weight: bold;
+}
+.container .ads {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.container .ads span {
+  font-weight: bold;
+}
+.container .ads p {
+  border: 2px;
+  border-style: solid;
+  padding: 50px 30px 50px 230px;
+}
+.article {
+  padding: 50px 0px 0px 50px;
+  font-weight: bold;
+  background-color: white;
+}
+.article span {
+  color: red;
+  text-transform: uppercase;
+}
+.article h1 {
+  text-transform: uppercase;
+}
+.article h2 {
+  font-size: 14px;
+}
+.article h2 span {
+  color: red;
+}
+.article img {
+  border: 1px;
+  border-style: solid;
+}
+.article p {
+  font-weight: normal;
+  padding-bottom: 20px;
 }
