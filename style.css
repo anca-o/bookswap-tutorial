@@ -47,15 +47,20 @@ body {
 .article span {
   color: red;
   text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
 }
 .article h1 {
   text-transform: uppercase;
+  margin: 0px;
+  padding: 0px;
 }
 .article h2 {
   font-size: 14px;
+  padding-bottom: 20px;
 }
 .article h2 span {
-  color: red;
+  color: blue;
 }
 .article img {
   border: 1px;
