@@ -5,7 +5,10 @@ body {
 .navbar {
   background-color: black;
   color: #ffffff;
-
+}
+.navbar a {
+  text-decoration: none;
+  color: inherit;
 }
 .navbar .logo {
   background-color: red;
